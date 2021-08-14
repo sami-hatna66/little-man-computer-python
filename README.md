@@ -1,6 +1,6 @@
 # Little Man Computer
 
-A compiler/editor for the Little Man Computer instruction set. 
+An interpreter/editor for the Little Man Computer instruction set. 
 
 main.py can be used as a standalone compiler or the Qt frontend can be used for a more interactive experience.
 
